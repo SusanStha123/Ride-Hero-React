@@ -1,0 +1,8 @@
+.blink {
+  position: relative;
+}
+
+.blink:hover {
+  background-color: #22C55E;
+  box-shadow: 0px 0px 10px #22C55E;
+}
